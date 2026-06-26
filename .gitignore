@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# SQLite
+*.db
+*.sqlite3
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Temp
+temp/*
+!temp/.gitkeep
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Uploaded email files
+uploads/
+
+# Build
+dist/
+build/
