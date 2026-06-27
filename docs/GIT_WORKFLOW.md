@@ -1,33 +1,16 @@
-\# Spy vs Spy Computers
+# Spy vs Spy Computers
 
+# GIT\_WORKFLOW.md
 
-
-\# GIT\_WORKFLOW.md
-
-
-
-\## Purpose
-
-
-
+## Purpose
 This document defines how Git is used for the Spy vs Spy Computers project.
-
-
-
 The goal is to keep development organized, understandable, reversible, and safe.
-
-
 
 Git should tell the story of the project clearly.
 
-
-
 \---
 
-
-
 \# Core Principles
-
 
 
 \* Keep commits small.
