@@ -1,5 +1,3 @@
-# Spy vs Spy Computers
-
 # GIT\_WORKFLOW.md
 
 ## Purpose
